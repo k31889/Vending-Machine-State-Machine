@@ -2,6 +2,6 @@
 Vending Machine represented as a state machine
 
 
-Events: 5p added; 20p added;
+Events:   5p added & 20p added
 
-Accept State: 40p+ entered;
+Accept    State: 40p+ entered
